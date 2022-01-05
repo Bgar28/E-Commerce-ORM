@@ -24,9 +24,8 @@
   ## Usage
 
   This application utilizes a Express.js API and MYSQL database, in addition to packages such as MYSQL2, Sequelize, and dotenv. <br/>
-  ![screenshot]() <br/>
-  ![screenshot]() <br/>
-  ![screenshot]()
+  ![screenshot](https://github.com/Bgar28/E-Commerce-ORM/blob/main/Assets/screenshot1.png) <br/>
+  ![screenshot](https://github.com/Bgar28/E-Commerce-ORM/blob/main/Assets/screenshot2.png)
 
   ## License
   ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg) Licensed under MIT.
