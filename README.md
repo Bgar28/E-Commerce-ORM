@@ -19,7 +19,7 @@
   Then run "node seeds/index.js" in your main terminal to seed your tables for the database with data. <br/>
   Lastly, run "npm start" to fire up the server in order to make requests. <br/>
   To make GET, PUT, POST, DELETE requests, make sure to have Postman or Insominia installed.
-  For a video walk-through demonstration, click the link: 
+  For a video walk-through demonstration, click the link: https://watch.screencastify.com/v/gYxwBmfNB1E7JiZwI05p
   
   ## Usage
 
