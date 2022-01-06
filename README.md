@@ -5,7 +5,7 @@
   
   ## Description 
   
-  This is a back-end application for an e-commerce website that allow's a user to make HTTP requests to the database in order to add/edit/modify the data within.
+  This is a back-end application that utilizes object-relational-mapping for an e-commerce website that allow's a user to make HTTP requests to the database in order to add/edit/modify the data within.
   
   ## Table of Contents
   * [Installation](#installation)
@@ -25,7 +25,7 @@
 
   This application utilizes a Express.js API and MYSQL database, in addition to packages such as MYSQL2, Sequelize, and dotenv. <br/>
   ![screenshot](https://github.com/Bgar28/E-Commerce-ORM/blob/main/Assets/screenshot1.png) <br/>
-  ![screenshot]()
+  ![screenshot](https://github.com/Bgar28/E-Commerce-ORM/blob/main/Assets/screenshot2.png)
 
   ## License
   ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg) Licensed under MIT.
